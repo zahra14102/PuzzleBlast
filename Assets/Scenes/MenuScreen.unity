@@ -523,6 +523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8d3225d52cfc5c46b6e548765721ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MenuScreen
+  playButton: {fileID: 1623389669}
 --- !u!4 &1300303040
 Transform:
   m_ObjectHideFlags: 0
